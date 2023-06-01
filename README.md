@@ -58,7 +58,7 @@ This repository provides the necessary code and resources for setting up a new i
 ## Usage
 flag | functionality
 --- | ---
- -i, --installation-scripts* | Run all installation scripts
+ -i, --installation-scripts | Run all installation scripts
  -c, --create-builder-vm | Run create-builder-vm script and subsequent setup scripts
  -s, --create-buildbot-vm  | Run create-buildbot-vm script and subsequent setup scripts
  -b, --setup-builder-vm | Run setup-builder-vm script and subsequent setup scripts
